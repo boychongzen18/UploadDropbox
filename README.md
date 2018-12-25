@@ -1,14 +1,18 @@
-# db-uploader
-DropBox Files Uploader
+# uploader Dropbox
 
-# How To Using Tools
-$pkg install python2 -y <br>
-$pkg install git -y <br>
-$git clone https://github.com/happyfunea/db-uploader <br>
-$cd db-uploader <br>
-$python2 uploader.py <br>
+# Eksekusi Tools via Termux
 
-# Thanks
-:)
+pkg update && pkg upgrade
+pkg install git python2 
+
+git clone https://github.com/boychongzen18/UploadDropbox
+
+cd UploadDropbox 
+Install Module
+pip2 install dropbox
+pip2 install pathlib
+ls
+python2 uploader.py
+
 
 
