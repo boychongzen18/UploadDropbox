@@ -10,13 +10,15 @@ git clone https://github.com/boychongzen18/UploadDropbox
 
 cd UploadDropbox 
 
-Install Module
+# Install Module
 
 pip2 install dropbox
 
 pip2 install pathlib
 
 ls
+
+chmod +x uploader.py
 
 python2 uploader.py
 
