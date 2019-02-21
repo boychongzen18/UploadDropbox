@@ -22,11 +22,13 @@ chmod +x uploader.py
 
 python2 uploader.py
 
-# My Youtube : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-# My Website : http://hackingforlive.cf
+Link Tutorial : https://youtu.be/8BdJLoNLt50
 
-# My Facebok : https://web.facebook.com/xroot.xroot.7
+My Website    : http://hackingforlive.cf
+
+My Facebok    : https://web.facebook.com/xroot.xroot.7
 
 # Moto : Berbagi Itu Indah
 
